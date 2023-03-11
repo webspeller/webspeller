@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webspeller
-- 👀 I’m interested in Functional Programming, DevOps and Tech Management
-- 🌱 I’m currently learning Elm and Elixir
+- 👀 I’m interested in Functional Programming (Elm, Elixir, Rust, Gleam etc), DevOps and Tech Management
+- 🌱 I learnt Elm basics and I’m currently getting well at Elm and learning Elixir
 - 💞️ I’m looking to collaborate for Startups and Part time gigs
 - 📫 How to reach me : Slack: webspeller
 
