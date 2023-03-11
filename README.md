@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @webspeller
 - 👀 I’m interested in Functional Programming, DevOps and Tech Management
-- 🌱 I’m currently learning Elixir
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Elm and Elixir
+- 💞️ I’m looking to collaborate for Startups and Part time gigs
 - 📫 How to reach me : Slack: webspeller
 
 <!---
