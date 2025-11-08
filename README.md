@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav (Github: webspeller)
-- 👀 I’m interested in Functional Programming (Elm, Haskell, Elixir, Rust, Gleam etc), DevOps and Tech Management
-- 🌱 I learnt Elm with Elm UI. I’m currently improving my skills in Elm and learning Elixir.
-- 💞️ I’m looking to collaborate with Startups and for part time gigs
+- 👀 I’m interested in Functional Programming (Elm language, Elixir, Gleam etc), DevOps and Tech Management
+- 🌱 I learnt Elm with Elm UI. I’m currently improving my skills in Elm and learning Elixir and GoLang.
+- 💞️ I’m looking to work in either Elm and Elixir or in management.
 - 📫 How to reach me : Slack: webspeller ; LinkedIn: www.linkedin.com/in/gauravmishra
 
 <!---
